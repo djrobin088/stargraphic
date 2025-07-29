@@ -159,7 +159,7 @@ const BillTable = () => {
       </Table>
       <div className="mt-4 w-full justify-center flex">
         <Button onClick={addNewRow} className={cn("no-print")}>
-          Add Item
+          Add New Row
         </Button>
       </div>
 

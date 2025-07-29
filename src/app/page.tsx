@@ -113,7 +113,7 @@ export default function Home() {
   return (
     <div
       ref={contentRef}
-      className=" mx-2  bdr flex flex-col items-center justify-center bdr h-screen"
+      className=" m-2  bdr flex flex-col items-center justify-center bdr h-screen"
     >
       <BillHeader></BillHeader>
       <BillDetails></BillDetails>
