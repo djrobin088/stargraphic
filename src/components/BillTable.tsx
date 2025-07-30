@@ -76,10 +76,10 @@ const BillTable = () => {
       <Table className="border">
         <TableHeader className="bg-primary">
           <TableRow>
-            <TableHead className="w-2/4 text-white print:text-black  border">
+            <TableHead className="w-1/4 text-white print:text-black  border">
               Description
             </TableHead>
-            <TableHead className="w-1/12 text-white print:text-black border">
+            <TableHead className="w-2/12 print:w-1/12 text-white print:text-black border">
               Size
             </TableHead>
             <TableHead className="w-1/12 text-white print:text-black border">
